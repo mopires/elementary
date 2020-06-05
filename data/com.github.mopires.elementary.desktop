@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Hello again
+GenericName=Hello App
+Comment=Proves that juggnix makes awesome dubstep
+Categories=Utility;Education;
+Exec=com.github.mopires.elementary
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;word;juggnix;
+
+
+
+
+
